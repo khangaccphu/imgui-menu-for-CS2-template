@@ -13,7 +13,7 @@ Một mã nguồn mở (Template) viết bằng **C++** hỗ trợ khởi tạo 
    ```bash
    git clone https://github.com
    ```
-2. Mở file `.sln` bằng **Visual Studio 2022**.
+2. Mở file `.sln` bằng **Visual Studio 2022 hoặc bản khác**.
 3. Cài đặt cấu hình biên dịch thành **Release | x64**.
 4. Nhấn `Ctrl + Shift + B` để tiến hành Build ra file `.dll`.
 
